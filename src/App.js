@@ -46,7 +46,8 @@ export default function App() {
 
   // GraphQLのエンドポイント
   const httpLink = new HttpLink({
-    uri: 'http://localhost:5000/graphql',
+    // uri: 'http://localhost:5000/graphql',
+    uri: 'https://now-apollo-deploy.aki323buri2.now.sh/graphql',
   })
 
   // Apollo-Clientの設定

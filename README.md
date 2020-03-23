@@ -1,6 +1,16 @@
 # daikyo-sample-09
 大京のサンプル09（Apollo Clientを用いての売上伝票入力画面）
 
+## バックエンドのデプロイ
+
+バックエンドを[zeit now](https://zeit.co/)にデプロイしました。
+
+https://now-apollo-deploy.aki323buri2.now.sh/graphql
+
+[リポジトリ](https://github.com/a-nakajima-at-shokuryu/now-apollo-deploy)
+
+
+
 ## インストール
 ```
 > npx create-react-app daikyo-sample
