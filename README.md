@@ -10,6 +10,12 @@ https://now-apollo-deploy.aki323buri2.now.sh/graphql
 [リポジトリ](https://github.com/a-nakajima-at-shokuryu/now-apollo-deploy)
 
 
+## GitHub Pagesにデプロイ
+
+https://a-nakajima-at-shokuryu.github.io/daikyo-sample-09/
+
+参考 : https://create-react-app.dev/docs/deployment/
+
 
 ## インストール
 ```
