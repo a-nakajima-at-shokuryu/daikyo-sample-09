@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.db566e5f.chunk.js",
-    "main.js.map": "/static/js/main.db566e5f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6dfbf211.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6dfbf211.js.map",
-    "static/js/2.0024d3ce.chunk.js": "/static/js/2.0024d3ce.chunk.js",
-    "static/js/2.0024d3ce.chunk.js.map": "/static/js/2.0024d3ce.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1b680c9706859f9f2f48efe97b6f81a3.js": "/precache-manifest.1b680c9706859f9f2f48efe97b6f81a3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.0024d3ce.chunk.js.LICENSE.txt": "/static/js/2.0024d3ce.chunk.js.LICENSE.txt"
+    "main.js": "/daikyo-sample-09/static/js/main.c30d8c58.chunk.js",
+    "main.js.map": "/daikyo-sample-09/static/js/main.c30d8c58.chunk.js.map",
+    "runtime-main.js": "/daikyo-sample-09/static/js/runtime-main.bc06b4a7.js",
+    "runtime-main.js.map": "/daikyo-sample-09/static/js/runtime-main.bc06b4a7.js.map",
+    "static/js/2.0024d3ce.chunk.js": "/daikyo-sample-09/static/js/2.0024d3ce.chunk.js",
+    "static/js/2.0024d3ce.chunk.js.map": "/daikyo-sample-09/static/js/2.0024d3ce.chunk.js.map",
+    "index.html": "/daikyo-sample-09/index.html",
+    "precache-manifest.0cd8fd16e3b0846e2425ead50a09761f.js": "/daikyo-sample-09/precache-manifest.0cd8fd16e3b0846e2425ead50a09761f.js",
+    "service-worker.js": "/daikyo-sample-09/service-worker.js",
+    "static/js/2.0024d3ce.chunk.js.LICENSE.txt": "/daikyo-sample-09/static/js/2.0024d3ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6dfbf211.js",
+    "static/js/runtime-main.bc06b4a7.js",
     "static/js/2.0024d3ce.chunk.js",
-    "static/js/main.db566e5f.chunk.js"
+    "static/js/main.c30d8c58.chunk.js"
   ]
 }
